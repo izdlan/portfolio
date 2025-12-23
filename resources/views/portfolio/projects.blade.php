@@ -45,7 +45,7 @@
                     <span class="px-3 py-1 bg-gray-900 text-gray-400 rounded-lg text-xs border border-gray-800">Bootstrap</span>
                 </div>
                 <div class="flex justify-between items-center">
-                    <a href="https://izdlan.github.io/LovelyNursingHome/" target="_blank" class="text-neon hover:text-neon-dark transition-colors duration-300">
+                    <a href="https://lovely-nursing-home.vercel.app/index.html" target="_blank" class="text-neon hover:text-neon-dark transition-colors duration-300">
                         View Project
                         <i class="fas fa-arrow-right ml-2"></i>
                     </a>
@@ -53,7 +53,7 @@
                         <a href="#" class="text-gray-600 hover:text-neon transition-colors duration-300">
                             <i class="fab fa-github"></i>
                         </a>
-                        <a href="https://izdlan.github.io/LovelyNursingHome/" target="_blank" class="text-gray-600 hover:text-neon transition-colors duration-300">
+                        <a href="https://lovely-nursing-home.vercel.app/index.html" target="_blank" class="text-gray-600 hover:text-neon transition-colors duration-300">
                             <i class="fas fa-external-link-alt"></i>
                         </a>
                     </div>
