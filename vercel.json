@@ -1,16 +1,15 @@
 {
   "installCommand": "echo 'Skipping install'",
   "buildCommand": "echo 'Skipping build'",
-  "outputDirectory": "public",
   "functions": {
     "api/*.php": {
       "runtime": "vercel-php@0.7.4"
     }
   },
-  "rewrites": [
+  "routes": [
     {
-      "source": "/(.*)",
-      "destination": "/api/index.php"
+      "src": "/(.*)",
+      "dest": "/api/index.php"
     }
   ],
   "env": {
