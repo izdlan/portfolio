@@ -24,5 +24,6 @@
     "LOG_CHANNEL": "stderr"
   },
   "installCommand": "echo 'Skipping Composer install'",
-  "buildCommand": "echo 'Build complete'"
+  "buildCommand": "echo 'Build complete'",
+  "outputDirectory": "public"
 }
