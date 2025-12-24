@@ -22,5 +22,7 @@
     "CACHE_DRIVER": "array",
     "SESSION_DRIVER": "array",
     "LOG_CHANNEL": "stderr"
-  }
+  },
+  "installCommand": "echo 'Skipping Composer install'",
+  "buildCommand": "echo 'Build complete'"
 }
